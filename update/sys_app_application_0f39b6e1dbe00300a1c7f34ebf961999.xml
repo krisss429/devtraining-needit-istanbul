@@ -6,27 +6,27 @@
         <description/>
         <device_type>browser</device_type>
         <hint/>
-        <name>NeedIt</name>
+        <name/>
         <order>100</order>
-        <roles>x_58872_needit.needit_user</roles>
+        <roles/>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-08-13 02:44:16</sys_created_on>
+        <sys_created_on>2017-08-13 04:05:41</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>82a66e29dba00300a1c7f34ebf9619a3</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>NeedIt</sys_name>
+        <sys_id>0f39b6e1dbe00300a1c7f34ebf961999</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Trial</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_app_application_82a66e29dba00300a1c7f34ebf9619a3</sys_update_name>
+        <sys_update_name>sys_app_application_0f39b6e1dbe00300a1c7f34ebf961999</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-14 14:34:35</sys_updated_on>
-        <title>NeedIt</title>
+        <sys_updated_on>2017-08-13 04:05:41</sys_updated_on>
+        <title>Trial</title>
         <view_name/>
     </sys_app_application>
 </record_update>
